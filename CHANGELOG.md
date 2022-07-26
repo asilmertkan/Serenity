@@ -22,7 +22,7 @@ Features:
 
 Features:
   - remove System.IO.Abstractions dependency from Serenity.CodeGenerator as preparation for source generators
-  - add key constant to all editor, foramtter, filtering attributes
+  - add key constant to all editor, formatter, filtering attributes
   - use pnpm if installed
   - use libman instead of npm for typings where possible
 
